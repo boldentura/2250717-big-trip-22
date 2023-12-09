@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
-* Студент: [Сергей Болденков](https://up.htmlacademy.ru/ecmascript/22/user/2250717).
-* Наставник: `Неизвестно`.
+* Студент: [Sergey Boldenkov](https://up.htmlacademy.ru/ecmascript/22/user/2250717).
+* Наставник: [Yulia Volkova](https://htmlacademy.ru/profile/id423707).
 
 ---
 
